@@ -1,0 +1,39 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e375d565-270c-0d19-9532-fa4b28cf4b5c",
+      "a8144fe8-f2c3-2c36-c757-9f7d0f4fd80d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Communication, Control, and Signal Processing",
+  "course_description": "This course examines signals, systems and inference as unifying themes in communication, control and signal processing. Topics include input-output and state-space models of linear systems driven by deterministic and random signals; time- and transform-domain representations in discrete and continuous time; group delay; state feedback and observers; probabilistic models; stochastic processes, correlation functions, power spectra, spectral factorization; least-mean square error estimation; Wiener filtering; hypothesis testing; detection; matched filters.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.011",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
